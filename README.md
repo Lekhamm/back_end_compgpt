@@ -1,5 +1,5 @@
 [![ComputeGPT](https://i.ibb.co/WnSy5n2/Road-Sense-removebg-preview.png)](https://computegpt.vercel.app/)
-# ComputeGPT- By Lekha,Samridha,Sneha
+# ComputeGPT- By Lekha, Samridha, Sneha
 ### Welcome to ComputeGPT - Your Computational Companion.
 
 ComputeGPT is your one-stop solution for accurate and efficient mathematical problem-solving, powered by advanced LLM technology.
